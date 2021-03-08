@@ -6,6 +6,7 @@ Prática de obtenção de pacotes direto do repositório
 ### Download do pacote
 
 ```bash
+$ cd /caminho/do/projeto/
 $ go get -u github.com/robmoraes/golang-udemy-cod3r-pkg
 ```
 
